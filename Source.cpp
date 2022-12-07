@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-	std::count << 1 + 6;
+	std::count << 1 + 14;
 
 	return 0;
 }
